@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launch theme for Android 12+ -->
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Set solid blue background -->
+        <!-- REMOVE this line since the drawable doesn't exist -->
+        <!-- <item name="android:windowSplashScreenAnimatedIcon">@drawable/android12splash</item> -->
+        <!-- Optional: match icon background to splash screen -->
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowSplashScreenBackground">#1F1F2F</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/android12splash</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">#1F1F2F</item>
+    </style>
+    <!-- Theme used after initial launch -->
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">#2196F3</item>
+        <!-- Match same blue -->
+    </style>
+</resources>

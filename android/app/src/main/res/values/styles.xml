@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme used while Flutter initializes -->
+    <style name="NormalTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Solid white background while Flutter loads -->
+        <item name="android:windowBackground">@color/splash_blue</item>
+
+        <!-- Optional system UI settings -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

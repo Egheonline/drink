@@ -1,0 +1,145 @@
+{
+  "welcome_title": "Hi, \nI am your personal hydration companion",
+  "welcome_desc": "To create a personalized hydration plan for you, I’ll need a few basic details. Don’t worry — your information will be kept private.",
+  "get_started": "GET STARTED",
+  "is_male": "Male",
+  "is_female": "Female",
+  "breast_feeding": "Breastfeeding Mother",
+  "pregnant_woman": "Pregnant Woman",
+  "next": "Next",
+  "select_gender": "Select Gender",
+  "your_weight": "Select Weight",
+  "select_wake_time": "Select Wake Time",
+  "wake_time": "Wake Time",
+  "bed_time": "Bed Time",
+  "wakeup_time_with_value": "Wake Time: {time}",
+  "choose_time": "Choose Time",
+  "select_bed_time": "Select Bed Time",
+  "bed_time_with_value": "Bed Time: {time}",
+  "finish_setup": "Finish Setup",
+  "left": "Left: {amount}",
+  "consumed": "Consumed: {amount}",
+  "set_water_reminder": "Set Water Reminder",
+  "set_daily_reminders": "Set Daily Reminders",
+  "cancel_all_reminders": "Cancel All Reminders",
+  "cancel_prompt": "Are you sure you want to cancel all water reminders?",
+  "yes": "Yes",
+  "no": "No",
+  "reminder_set": "Daily reminders have been set",
+  "daily_set": "Daily reminders set successfully!",
+  "background_services_note":"To ensure reminders work reliably, please disable battery optimization for this app in your device settings.",
+  "allow_background_services": "Allow Background Services",
+  "cancel": "Cancel",
+  "save": "Save",
+  "open_settings": "Open Settings",
+  
+  "failed_to_cancel": "Failed to cancel: ",
+  "set_wakeuptime_and_bedtime_in_settings_first": "Set wakeup time and bedtime in settings first",
+  "scheduled_reminders": "Scheduled Reminders",
+  "no_scheduled_reminders": "No scheduled reminders",
+
+  "current_hydration": "Current Hydration",
+  "goal_value": "Goal: {goal}",
+  "intake_history": "Intake History",
+  "export": "Export",
+  "clear": "Clear",
+  "date": "Date: ",
+  "no_entry_date": "No entries for selected date.",
+  "delete": "Delete",
+  "hydration_history": "Hydration History",
+  "unit": "Unit: '",
+  "privacy_policy": "Privacy Policy",
+  "privacy_policy_content": "Your data is stored locally and not shared externally. No personal data is collected.",
+  "user_info": "User Info",
+  "gender": "Gender",
+  "weight": "Weight",
+  "goal_intake": "Goal Intake",
+  "theme": "Theme",
+  "reset_all_info": "Reset All Info",
+  "daily": "Daily",
+  "monthly": "Monthly",
+  "annual": "Annual",
+  "no_data_for_selected_period": "No data for selected period",
+
+  "reset_app": "Reset complete. The app needs to restart to apply changes. Restart now?",
+  "restart_required": "Restart Required",
+  "restart": "Restart",
+  "drink_water_report": "Drink Water Report",
+  "weekly_average": "Weekly Average: {avg} {unit}",
+  "monthly_average": "Monthly Average: {avg} {unit}",
+  "weekly_completion": "Weekly Completion: {percent}%",
+  "drink_frequency": "Drink Frequency: {days} days",
+  "reminder": "Reminder",
+  "reschedule": "Reschedule",
+  "custom_cup": "Custom Cup",
+  "edit_cup_size": "Edit Cup Size ({unit})",
+  "add": "Add",
+  "language_english": "English",
+  "language_french": "French",
+  "language_arabic": "Arabic",
+  "select_language": "Select Language",
+  "notification_sound": "Notification Sound",
+  "choose_sound": "Choose Sound",
+  "add_from_device": "Add from device",
+  "tap_container": "Tap Container To Confirm Amount Drank",
+  "reminder_set_for": "Reminder set for {time}",
+  
+  "quote_1": "Drink more water, your skin will thank you.",
+  "quote_2": "Hydration is key to concentration.",
+  "quote_3": "A hydrated body is a happy body.",
+  "quote_4": "Don't wait until you're thirsty—drink now!",
+  "quote_5": "Every sip counts toward your health.",
+  "quote_6": "Water fuels your energy naturally.",
+  "quote_7": "Hydrate before it's too late.",
+  "quote_8": "Clear mind, clear skin—drink water.",
+  "quote_9": "You’re 60% water. Treat yourself right.",
+  "quote_10": "Your body craves water—not soda.",
+  "reminderupdate": "Reminder updated successfully",
+  "support_water_project": "Support Communities' Water Project",
+
+  "donation_amount": "Amount",
+  "currency": "Currency",
+  "donate": "Donate",
+  "invalid_donation": "Please enter a valid donation amount",
+  "paypal_open_error": "Could not open PayPal",
+  "reminder_cancelled": "Reminder cancelled",
+  "hydration_reminder_title": "Time to Hydrate!",
+  "hydration_reminder_body": "Drink Water💧",
+  "time": "Time",
+  "hydration_reminder_title(S)": "Time to Hydrate!(S)",
+  "auto": "Auto (Based on time)",
+  "light": "Light",
+  "dark": "Dark",
+  "choose_theme": "Choose Theme",
+  "reminders_rescheduled": "Reminder Rescheduled",
+  "preserve_manual_reminders_description": "Keep manually set reminders even after rescheduling",
+  "set_reminder_interval": "Set Reminder Interval",
+  "reminder_already_set": "Reminder Already Set",
+  "waking_time_body": "Time to Wake Up",
+  "bed_time_body": "It's Time For Bed",
+  "waking_time_heading": "Wake Time",
+  "bed_time_heading": "Bed Time",
+  "enter_amount": "Enter Amount"
+  
+
+
+
+
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+}
